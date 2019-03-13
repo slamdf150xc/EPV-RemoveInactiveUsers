@@ -2,7 +2,7 @@
 <#
 .SYNOPSIS
  	This script will read the raw Active/Non-Active Users report from the PrivateArk client
-	and then remove any "External User" listed in that report.
+	and then remove any "External User" listed in that report to recover those licenses.
  
 .EXAMPLE
  	.\EPV-RemoveUser.ps1
