@@ -1,1 +1,1 @@
-This script will remove all users listed in the Active/Non-Active Users report from the PrivateArk client.
+This script will remove all users listed in the Active/Non-Active Users report from the PrivateArk client recovering those user licenses.
